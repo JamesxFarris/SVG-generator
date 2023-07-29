@@ -54,7 +54,7 @@ function init() {
 
     // Write the shape to the file
     fs.writeFile(
-      "Examples/logo.svg",
+      `Examples/${answers.name}.svg`,
       shape.create(answers.name, answers.color),
       (err) => {
         if (err) throw err;
