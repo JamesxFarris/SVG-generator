@@ -1,6 +1,0 @@
-
-        <svg height="200" width="300">
-          <polygon points="160,10 275,200 30,200" fill="green" />
-          <text x="50%" y="50%" text-anchor="middle" fill="blue" dy=".3em">POE</text>
-        </svg>
-      
