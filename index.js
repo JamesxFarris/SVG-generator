@@ -1,6 +1,6 @@
-const inquirer = require("inquirer");
-const fs = require("fs");
-const { Triangle, Square, Circle } = require("./lib/shapes");
+import inquirer from "inquirer";
+import fs from "fs";
+import { Circle, Triangle, Square } from "./lib/shapes.js";
 
 const questions = [
   // Prompt for letters
