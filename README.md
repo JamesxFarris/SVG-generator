@@ -21,7 +21,7 @@ https://github.com/JamesxFarris/svg-generator/assets/51385562/25cc5fb6-5dc1-445f
 
 ## Description
 
-The SVG Generator is built using an inquirer database to grab basic info from the user and generate an SVG based on the information provided. The generator can create 3 different shapes that contain 3 letters and colored elements.
+The SVG Generator is built using an inquirer interface to grab basic info from the user and generate an SVG based on the information provided. The generator can create 3 different shapes that contain 3 letters and colored elements.
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ In order to get the necessities to use the application you must:
   
 ## Usage
 
-In order to use the note taking application, you must:
+In order to use the generator, you must:
 
 - Open your cloned repo
 
