@@ -49,9 +49,12 @@ function init() {
       shape = new Circle(answers.shapeColor);
     }
 
+    // Set the text color before rendering
+    shape.setTextColor(answers.color);
+
     // Write the shape to the file
     fs.writeFile(
-      "logo.svg",
+      "Examples/logo.svg",
       shape.create(answers.name, answers.color),
       (err) => {
         if (err) throw err;
@@ -60,3 +63,5 @@ function init() {
     );
   });
 }
+
+init();
