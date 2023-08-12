@@ -6,6 +6,7 @@
 <strong> A console-based app to help generate basic logos. </strong>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 https://github.com/JamesxFarris/svg-generator/assets/51385562/25cc5fb6-5dc1-445f-be17-161919f0debf
 
